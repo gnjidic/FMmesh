@@ -1,0 +1,3 @@
+D:/C++Code/takeoff/CMakeFiles/HexGen.dir
+D:/C++Code/takeoff/CMakeFiles/edit_cache.dir
+D:/C++Code/takeoff/CMakeFiles/rebuild_cache.dir
