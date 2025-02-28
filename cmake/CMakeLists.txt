@@ -2,13 +2,13 @@ cmake_minimum_required(VERSION 3.27.4)
 project(HexGen VERSION 1.0)
 
 set(SOURCES
-    Main.cpp
-    HexGen.cpp
-    HexGen.h
-    Initialization.h
-    Mesh.cpp
-    Mesh.h
-    StaticVars.h
+    ../src/Main.cpp
+    ../src/HexGen.cpp
+    ../src/HexGen.h
+    ../src/Initialization.h
+    ../src/Mesh.cpp
+    ../src/Mesh.h
+    ../src/StaticVars.h
 )
 
 add_executable(HexGen ${SOURCES})

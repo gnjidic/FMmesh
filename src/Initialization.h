@@ -233,4 +233,4 @@ const double CELL_DETECT = 1.0;
     return 0; \
 }
 
-#endif INITIALIZATION_H
+#endif

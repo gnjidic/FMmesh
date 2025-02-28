@@ -2,6 +2,7 @@
 #define HEXGEN_H
 
 #include <vector>
+#include <cmath> //added for math operations by Damjan
 #include <algorithm>
 #include <unordered_set>
 #include "StaticVars.h"
@@ -108,4 +109,4 @@ private:
 	// initiate element valences in the octree structure
 	inline void InitiateElementValence();
 };
-#endif HEXGEN_H
+#endif // HEXGEN_H
